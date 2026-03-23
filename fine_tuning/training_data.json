@@ -1,0 +1,17 @@
+[
+  {
+    "instruction": "Paciente com glicose alta, o que avaliar?",
+    "input": "",
+    "output": "Avaliar HbA1c, histórico clínico e sintomas como sede excessiva e fadiga."
+  },
+  {
+    "instruction": "Quais sinais indicam possível diabetes?",
+    "input": "",
+    "output": "Sede excessiva, fadiga, perda de peso e glicemia elevada."
+  },
+  {
+    "instruction": "Quando investigar hipertensão?",
+    "input": "",
+    "output": "Quando pressão arterial estiver consistentemente acima de 140/90 mmHg."
+  }
+]
